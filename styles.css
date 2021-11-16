@@ -15,7 +15,7 @@ body{
   padding: 4.5rem 2.5rem 0  2.5rem; 
   display: grid;
   grid-template-columns: repeat( 2 , minmax(100px,25vw)) ;
-  grid-template-rows: repeat(2 , 30vh)  min-content;
+  grid-template-rows: repeat(2 , 33vh)  min-content;
 
   justify-content: center;
   align-content: center;
